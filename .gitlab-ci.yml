@@ -2,7 +2,7 @@ image: node:7.10
 
 before_script:
   - |
-    cd /builds/qarachit/protractor-selenium-sample-gitlab
+    cd /builds/<GIT USER NAME>/protractor-selenium-sample-gitlab
     echo 'export LT_USERNAME="{your_lambdatest_username}"' >> ~/.bashrc
     echo 'export LT_ACCESS_KEY="{your_lambda_access_key}"' >> ~/.bashrc
     npm install
