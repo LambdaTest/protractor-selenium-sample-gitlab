@@ -1,4 +1,4 @@
-![LambdaTest Logo](https://www.lambdatest.com/static/images/logo.svg)
+![logo](https://user-images.githubusercontent.com/70570645/178349598-5a8f2a0a-b0cd-46c7-8821-86e8b248e205.png)
 ---
 # Running Protector Scripts using LambdaTest
 
