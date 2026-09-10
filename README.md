@@ -13,7 +13,7 @@
 With TestMu AI (Formerly LambdaTest), you can run Protractor Selenium tests integrated with GitLab CI across real browsers and operating systems. This sample shows how to configure Protractor tests with GitLab CI to run on the TestMu AI cloud.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
-- Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/gitlab-ci-integration-with-testmu/) for the full setup walkthrough.
+- Follow the [Integrate GitLab CI with TestMu AI](https://www.testmuai.com/support/docs/gitlab-ci-integration-with-testmu/) for the full setup walkthrough.
 
 ### Prerequisites
 
